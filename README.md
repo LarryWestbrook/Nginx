@@ -17,6 +17,7 @@
 - [Kinsta](https://kinsta.com/es/base-de-conocimiento/que-es-nginx/)
 
 - [Marketersgroup](https://marketersgroup.es/diferencias-entre-apache-y-nginx/)
+- [Clouding](https://help.clouding.io/hc/es/articles/360019908839-C%C3%B3mo-configurar-un-servidor-de-balanceo-de-carga-Nginx-en-Ubuntu-20-04)
 
 ## Autor
 
